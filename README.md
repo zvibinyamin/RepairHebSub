@@ -1,2 +1,3 @@
-# RepairHebSub
-Fixes the Hebrew subtitle files
+# Repair software Hebrew subtitles
+
+גגגגגסהבזכעהדזגסה נ דגכז הכדגעה 
