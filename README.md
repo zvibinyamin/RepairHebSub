@@ -1,5 +1,4 @@
 # Repair software Hebrew subtitles
-# תוכנה לתיקון כתוביות בעברית
 
 --
 
@@ -10,9 +9,8 @@
  - Use two: full translation of captions and subtitles correction format through using google translate
 
 
-
-# Manual
-# Using the first option:
+--
+# Manual - Moving punctuation from the beginning of the line to the end of line:
 1. Has put the JAR file in the same folder of the subtitles.
 2. Open the JAR and choose the type of encoding.
 3. Wait for a message indicating that the software successfully completed mission.
@@ -26,3 +24,7 @@ After:
 <p align="left">
   <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/after.jpg?raw=true" width="600"/>
 </p>
+
+---
+
+
