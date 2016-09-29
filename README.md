@@ -6,7 +6,7 @@
 
  - First Use: Moving punctuation from the beginning of the line to the end of line.
  
- - Use two: full translation of captions and subtitles correction format through using google translate
+ - Use two: full translation of captions and subtitles correction format through using "google translate"
 
 
 --
@@ -27,7 +27,7 @@ After:
 
 ---
 
-# Manual - full translation of captions and subtitles correction format through using google translate:
+# Manual - full translation of captions and subtitles correction format through using "google translate":
 1. Translate the subtitles with "google translate" and save the file with the word "HEB" in the file name.
 2. Has put the JAR file in the same folder of the subtitles.
 3. Open the JAR and choose the type of encoding.
