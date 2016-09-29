@@ -1,9 +1,7 @@
-Repair software Hebrew subtitles
-===============
-תוכנה לתיקון כתוביות בעברית
-===============
+# Repair software Hebrew subtitles
+# תוכנה לתיקון כתוביות בעברית
 
-
+--
 
 # Software two main uses:
 
