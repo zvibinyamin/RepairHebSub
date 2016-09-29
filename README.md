@@ -1,4 +1,4 @@
-# Repair software Hebrew subtitles
+# Fixes the Hebrew subtitle files
 
 --
 
