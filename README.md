@@ -17,12 +17,12 @@
 
 Before:
 <p align="left">
-  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/before.jpg?raw=true" width="400"/>
+  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/Examples1_before.jpg?raw=true" width="400"/>
 </p>
 
 After:
 <p align="left">
-  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/after.jpg?raw=true" width="400"/>
+  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/Examples1_after.jpg?raw=true" width="400"/>
 </p>
 
 ---
@@ -35,14 +35,14 @@ After:
 
 Before:
 <p align="left">
-  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/before.jpg?raw=true" width="400"/>
+  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/Examples2_before.jpg?raw=true" width="400"/>
 </p>
 
 After:
 <p align="left">
-  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/after.jpg?raw=true" width="400"/>
+  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/Examples2_after.jpg?raw=true" width="400"/>
+  <img src="https://github.com/zvibinyamin/RepairHebSub/blob/master/Examples/Examples2_after2.jpg?raw=true" width="400"/>
 </p>
-
 ---
 
 Created by Zvika.
