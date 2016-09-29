@@ -56,7 +56,7 @@ public class Main {
                 readFileToModel.add(i, newLine);
             }
         }
-        if (MyFile.writeModelToFile(path.substring(0,path.length()-5) + "_new" + path.substring(path.length()-4), readFileToModel)) {
+        if (MyFile.writeModelToFile(path.substring(0,path.length()-4) + "_new" + path.substring(path.length()-4), readFileToModel)) {
             MSG += " : Ready.\n";
         } else {
             MSG += " : Error! The file is not editable.\n";
